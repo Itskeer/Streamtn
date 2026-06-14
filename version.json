@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.3",
-  "android": null,
-  "windows": null,
-  "changelog": "Auto Update First Testing",
-  "force": false
+    "changelog":  "Auto Update First Testing",
+    "force":  false,
+    "android":  null,
+    "latest":  "1.0.3",
+    "windows":  "https://github.com/Itskeer/Streamtn/releases/download/v1/Release.rar"
 }
