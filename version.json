@@ -1,7 +1,7 @@
 {
-    "changelog":  "Custom ver for Ranim 0.1 - Bug fixes and improvements",
-    "force":  false,
-    "android":  "https://github.com/Itskeer/Streamtn/releases/download/v1.0.1/app-release.apk",
-    "latest":  "1.0.1",
-    "windows":  "https://github.com/Itskeer/Streamtn/releases/download/v1.0.1/Release.rar"
+  "latest": "1.0.3",
+  "android": null,
+  "windows": null,
+  "changelog": "Auto Update First Testing",
+  "force": false
 }
