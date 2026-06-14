@@ -1,0 +1,7 @@
+{
+    "changelog":  "Initial release - Custom ver for Ranim 0.1",
+    "force":  false,
+    "android":  "https://github.com/Itskeer/Streamtn/releases/download/v1.0.0/app-release.apk",
+    "latest":  "1.0.0",
+    "windows":  "https://github.com/Itskeer/Streamtn/releases/download/v1.0.0/animetn.exe"
+}
