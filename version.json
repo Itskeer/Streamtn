@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.6",
+  "latest": "1.0.7",
   "android": null,
-  "windows": "https://github.com/Itskeer/Streamtn/releases/download/v1.0.6/Release.rar",
-  "changelog": "Fix update check - no more base64 errors",
-  "force": false
+  "windows": "https://github.com/Itskeer/Streamtn/releases/download/v1.0.7/Release.rar",
+  "changelog": "Update actually installs now - replaces exe and relaunches",
+  "force": true
 }
